@@ -1,0 +1,376 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\91998\Desktop\LPC2148\Project1\project.uvproj
+Project File Date:  10/26/2023
+
+<h2>Output:</h2>
+compiling main.c...
+GPIO.h(7): error:  #65: expected a ";"
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+main.c(10): warning:  #223-D: function "delay" declared implicitly
+main.c(14): warning:  #111-D: statement is unreachable
+main.c(15): warning:  #1-D: last line of file ends without a newline
+main.c - 1 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+main.c(10): warning:  #223-D: function "delay" declared implicitly
+main.c(14): warning:  #111-D: statement is unreachable
+main.c(15): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+main.c(10): warning:  #223-D: function "delay" declared implicitly
+main.c(14): warning:  #111-D: statement is unreachable
+main.c(15): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+main.c(10): warning:  #223-D: function "delay" declared implicitly
+main.c(14): warning:  #111-D: statement is unreachable
+main.c(15): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(15): warning:  #111-D: statement is unreachable
+main.c(16): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(15): warning:  #111-D: statement is unreachable
+main.c(16): warning:  #1-D: last line of file ends without a newline
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(16): warning:  #111-D: statement is unreachable
+main.c(17): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(16): warning:  #111-D: statement is unreachable
+main.c(18): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(16): warning:  #111-D: statement is unreachable
+main.c(18): warning:  #1-D: last line of file ends without a newline
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(17): warning:  #111-D: statement is unreachable
+main.c(19): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+project.axf: Error: L6218E: Undefined symbol initpll (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+project.axf: Error: L6218E: Undefined symbol initpll (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+project.axf: Error: L6218E: Undefined symbol initpll (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+project.axf: Error: L6218E: Undefined symbol initpll (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+project.axf: Error: L6218E: Undefined symbol initpll (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(5): error:  #20: identifier "PLLOCFG" is undefined
+header.h(22): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 1 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(22): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1044 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(2): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+project.axf: Error: L6218E: Undefined symbol delay (referred from main.o).
+project.axf: Error: L6218E: Undefined symbol initpll (referred from main.o).
+Target not created
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(21): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1044 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(21): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1044 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(21): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1044 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1068 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1068 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1064 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1064 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(21): warning:  #111-D: statement is unreachable
+main.c(22): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1100 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(21): warning:  #111-D: statement is unreachable
+main.c(22): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1100 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(21): warning:  #111-D: statement is unreachable
+main.c(22): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1100 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(26): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1064 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1064 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(19): warning:  #111-D: statement is unreachable
+main.c(20): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(20): warning:  #111-D: statement is unreachable
+main.c(21): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1080 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(20): warning:  #111-D: statement is unreachable
+main.c(21): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1080 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+GPIO.h(11): warning:  #1-D: last line of file ends without a newline
+header.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(20): warning:  #111-D: statement is unreachable
+main.c(21): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1080 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
+compiling main.c...
+GPIO.h(24): warning:  #1-D: last line of file ends without a newline
+header.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(20): warning:  #111-D: statement is unreachable
+main.c(21): warning:  #1-D: last line of file ends without a newline
+main.c - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1192 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+GPIO.h(25): warning:  #1-D: last line of file ends without a newline
+header.h(27): warning:  #1-D: last line of file ends without a newline
+main.c(20): warning:  #111-D: statement is unreachable
+main.c(21): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1196 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"project.axf" - 0 Error(s), 4 Warning(s).
