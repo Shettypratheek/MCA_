@@ -1,0 +1,9 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F5858F0)(--cpu ARM7TDMI -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC -I C:\Keil_v5\ARM\CMSIS\Include -I C:\Keil_v5\ARM\Inc\Philips --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\main.c)(0x65480454)(-c --cpu ARM7TDMI -g -O0 --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC -I C:\Keil_v5\ARM\CMSIS\Include -I C:\Keil_v5\ARM\Inc\Philips -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil_v5\ARM\Inc\Philips\lpc214x.h)(0x4F585AA4)
+I (header.h)(0x65480125)
+I (LCD.h)(0x65480454)
+F (.\header.h)(0x65480125)()
+F (.\LCD.h)(0x65480454)()
+F (.\GPIO.h)(0x6547F275)()
